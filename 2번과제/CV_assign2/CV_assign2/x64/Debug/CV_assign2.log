@@ -1,0 +1,53 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(CV_assign1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  main.cpp
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(31,34): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(31,31): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(40,34): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(40,31): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(53,40): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(54,43): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(55,53): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(55,40): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(91,22): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\CV_assign2\main.cpp(92,22): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  CV_assign2.vcxproj -> C:\Users\jpPark\Desktop\박중필\4-1\컴비\과제\assigns\2번과제\CV_assign2\x64\Debug\CV_assign2.exe
